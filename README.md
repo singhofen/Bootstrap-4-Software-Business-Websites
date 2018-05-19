@@ -1,6 +1,9 @@
-# Bootstrap-4-Software-Business-Website
+# This repository contains 2 Professional Bootstrap-4-Software-Business-Websites. 
 
-Below are snippets of UI of the sample Software Business site. It is responsive and includes some css3 effects & BS4 image slider.
+Below are snippets of the UI of the sample Software Business sites. It is responsive and includes some css3 effects & BS4 image slider.
+
+# Software Consulting / Engineering Firm website 1
+Fully responsive BS4 clean professional website
 
 ![image](https://user-images.githubusercontent.com/23155302/39592363-7f318076-4ed4-11e8-8b4e-55af085e28ce.png)
 
@@ -14,8 +17,8 @@ Below are snippets of UI of the sample Software Business site. It is responsive 
 
 ![image](https://user-images.githubusercontent.com/23155302/39592552-18fb1d84-4ed5-11e8-942b-2a7aa7aea2c5.png)
 
-# Software Engineering Firm website
-Fully responsive BS4 sleek, clean professional website
+# Software Consulting / Engineering Firm website 2
+Fully responsive BS4 clean professional website
 
 ![image](https://user-images.githubusercontent.com/23155302/39949684-5507fdee-554a-11e8-861e-6c0e6fad7abf.png)
 
