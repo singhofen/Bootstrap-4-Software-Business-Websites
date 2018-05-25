@@ -32,3 +32,15 @@ Fully responsive BS4 clean professional website
 
 # Tech Company Website 
 
+![image](https://user-images.githubusercontent.com/23155302/40569336-bf96c9c4-604e-11e8-955b-b7652489ccd9.png)
+
+![image](https://user-images.githubusercontent.com/23155302/40569350-dee5af3e-604e-11e8-8c74-932e17954d26.png)
+
+![image](https://user-images.githubusercontent.com/23155302/40569359-f72131ae-604e-11e8-8a52-8e53bd706ec9.png)
+
+![image](https://user-images.githubusercontent.com/23155302/40569370-0ca2e72a-604f-11e8-8ec6-b297b4869512.png)
+
+# Mobile Veiw
+
+![image](https://user-images.githubusercontent.com/23155302/40569390-3d769446-604f-11e8-80fc-09b4ac6b5460.png)
+
