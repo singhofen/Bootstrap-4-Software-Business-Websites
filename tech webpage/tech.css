@@ -1,0 +1,122 @@
+body{
+  margin-top:70px;
+  font-size:16px;
+  background-image: url("https://images.pexels.com/photos/131661/pexels-photo-131661.jpeg?auto=compress&cs=tinysrgb&h=350");
+  
+}
+.rounded-circle{
+border-radius: 2%;
+}
+
+.imgs{
+  border-radius: 10%;
+}
+.imgs:hover{
+  -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.imgs:hover{
+  -webkit-transform: scale(1.07);
+	transform: scale(1.07);
+}
+
+#navbar a:hover{
+  color: blue;
+  font-weight: bold;
+}
+
+#icon-bar{
+  width: 1.4em;
+  height: 0.15em;
+  background: black;
+}
+#navy:hover  {
+ background-color: rgb(28, 144, 182);
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family:Poppins;
+  color: rgb(15, 3, 3);
+  font-weight: bold;
+}
+
+p{
+  font-family:Roboto;
+  color: rgb(223, 219, 219);
+  font-weight: 500 !important;
+}
+
+#nav{
+  opacity: 0.6 !important;
+}
+.navbar-default{
+  border:0;
+  font-family:Poppins;
+  
+}
+
+.navbar-brand{
+  font-size:20px;
+  color:#000 !important;
+  font-weight:bold;
+
+}
+
+#showcase h1{
+  font-size:50px;
+  margin-bottom:20px;
+}
+
+#showcase img{
+  width:90%;
+  margin-left:60px;
+}
+
+#showcase .showcase-right{
+  margin-top:90px;
+}
+
+#testimonial{
+  background:#f1f1f1;
+  padding: 50px 0 30px 0;
+  text-align:center;
+  margin-top:40px;
+  opacity: 0.6;
+}
+
+#testimonial p{
+  font-size:32px;
+  font-family: 'Josefin Sans';
+  color:#000;
+}
+
+#testimonial p.customer{
+  font-size:20px;
+  
+}
+
+#info1 .info-right{
+  margin-top:90px;
+}
+
+#info2{
+  margin:20px 0 60px 0;
+}
+
+#contact{
+  background:url(img/landscape.jpeg);
+  padding:40px;
+  color:#fff;
+  /* border-top:#333 7px solid;
+  border-bottom:#333 7px solid; */
+  opacity: 0.8;
+}
+
+footer{
+  padding:30px;
+}
+body{
+  overflow-x: hidden;
+}
