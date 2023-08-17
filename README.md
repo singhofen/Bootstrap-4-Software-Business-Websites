@@ -1,16 +1,16 @@
-### This repository contains 3 Professional Bootstrap-4-Software-Business-Websites. 
+# This repository contains 3 Professional Bootstrap-4-Software-Business-Websites. 
 ### One option of business website https://it-services-web-dev.netlify.com/business-parallax.html
 
 Below are snippets of the UI of the sample Software Business sites. It is responsive and includes some css3 effects & BS4 image slider.
 
-## Software Consulting / Engineering Firm website 1
+## 1ST Software Consulting / Engineering Firm website
 Fully responsive BS4 clean professional website
 
 ![image](https://user-images.githubusercontent.com/23155302/39592363-7f318076-4ed4-11e8-8b4e-55af085e28ce.png)
 
 
 
-# Software Consulting / Engineering Firm website 2
+# 2ND Software Consulting / Engineering Firm website
 Fully responsive BS4 clean professional website
 
 ![image](https://user-images.githubusercontent.com/23155302/39949684-5507fdee-554a-11e8-861e-6c0e6fad7abf.png)
@@ -23,7 +23,7 @@ Fully responsive BS4 clean professional website
 
 ![image](https://user-images.githubusercontent.com/23155302/39949760-dec84a0c-554a-11e8-98b7-66e77891450f.png)
 
-# Tech Company Website 
+# 3RD Tech Company Website
 
 ![image](https://user-images.githubusercontent.com/23155302/40569336-bf96c9c4-604e-11e8-955b-b7652489ccd9.png)
 
